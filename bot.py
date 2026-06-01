@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from openai import OpenAI
 
 # --- НАСТРОЙКИ (ВСТАВЬТЕ ВАШИ КЛЮЧИ СЮДА) ---
-TELEGRAM_TOKEN = "8641676059:AAGo1KYLD9S7ncljMVvU0QtwhY8q7xjevlQ"
-DEEPSEEK_API_KEY = "sk-cb7c8f4624694e90906a0eec4e029403"
+TELEGRAM_TOKEN = "8629048208:AAFw0304E9PkfHumHKaT9oahMvPNQwclY6s"
+DEEPSEEK_API_KEY = "sk-6ace5c18d7e6436fb54e4a53b71389d7"
 # -------------------------------------------
 
 # Настройка клиента DeepSeek (он совместим с OpenAI библиотекой)
